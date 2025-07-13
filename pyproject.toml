@@ -1,0 +1,15 @@
+[project]
+name = "adabins"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib==3.10.0",
+    "numpy==2.0.2",
+    "pillow==11.2.1",
+    "scipy==1.15.3",
+    "torch==2.6.0",
+    "torchvision==0.21.0",
+    "tqdm>=4.67.1",
+]
